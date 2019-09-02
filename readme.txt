@@ -3,4 +3,4 @@ git damo
 新建分支。
 Creating a new branch is quick AND simple.
 修改。
-dev2.
+(修复)
